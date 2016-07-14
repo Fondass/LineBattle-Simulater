@@ -1,0 +1,9 @@
+C:\wamp\www\LineBattleSim\bin\Debug\LineBattleSim.exe.config
+C:\wamp\www\LineBattleSim\bin\Debug\LineBattleSim.exe
+C:\wamp\www\LineBattleSim\bin\Debug\LineBattleSim.pdb
+C:\wamp\www\LineBattleSim\obj\Debug\LineBattleSim.csprojResolveAssemblyReference.cache
+C:\wamp\www\LineBattleSim\obj\Debug\LineBattleSim.Form1.resources
+C:\wamp\www\LineBattleSim\obj\Debug\LineBattleSim.Properties.Resources.resources
+C:\wamp\www\LineBattleSim\obj\Debug\LineBattleSim.csproj.GenerateResource.Cache
+C:\wamp\www\LineBattleSim\obj\Debug\LineBattleSim.exe
+C:\wamp\www\LineBattleSim\obj\Debug\LineBattleSim.pdb
